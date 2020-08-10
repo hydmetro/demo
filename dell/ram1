@@ -17,3 +17,5 @@ To git@github.com:schacon/simplegit.git
  * [new tag]         v1.4 -> v1.4
  * [new tag]         v1.4-lw -> v1.4-lw
 Now, when someone else clones or pulls from your repository, they will get all your tags as well.
+
+helo yopur are a bad biyt in the 
